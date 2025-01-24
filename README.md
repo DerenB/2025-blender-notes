@@ -17,12 +17,12 @@
 
 - [Polygon Runway](https://www.youtube.com/@polygonrunway)
 - [Hard Surface modeling - Josh Gambrell](https://www.youtube.com/@JoshGambrell)
-- [(Paid) 3D Car](https://blendermarket.com/products/3d-cars-inside-and-out-in-blender)
+- (Paid) [3D Car](https://blendermarket.com/products/3d-cars-inside-and-out-in-blender)
 
 ### Prodecural Materials
 
 - [Ryan King](https://www.youtube.com/@RyanKingArt/featured)
-- [(Paid) CG Masters](https://blendermarket.com/products/master-procedural-texturing-in-blender)
+- (Paid) [CG Masters](https://blendermarket.com/products/master-procedural-texturing-in-blender)
 
 ### Geometry Nodes
 
@@ -39,7 +39,7 @@
 
 ### Lighting
 
-- (Paid)[Cinematic Lighting in Blender](https://blendermarket.com/products/cinematic-lighting-in-blender)
+- (Paid) [Cinematic Lighting in Blender](https://blendermarket.com/products/cinematic-lighting-in-blender)
 
 ### VFX 
 
