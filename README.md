@@ -50,6 +50,22 @@
 - [Grant Abbitt](https://www.youtube.com/@grabbitt)
 - (Paid) [Human Realistic Portrait Creation](https://blendermarket.com/products/human-realistic-portrait-creation-with-blender)
 
+### Environments
+
+- [Max Hay](https://www.youtube.com/@maxhayart)
+- [Max Hay Website](https://www.maxhayart.com/)
+
+### Honorable Mentions
+
+- [Derek Elliott](https://www.youtube.com/@DerekElliott)
+- [CG Geek](https://www.youtube.com/@CGGeek)
+- [Smeaf](https://www.youtube.com/@Smeaf)
+- [Cartesian Caramel](https://www.youtube.com/@CartesianCaramel)
+- [Curtis Holt](https://www.youtube.com/@CurtisHolt)
+- [Kaizen](https://www.youtube.com/@KaizenTutorials)
+- [C Bailey Film](https://www.youtube.com/@CBaileyFilm)
+- [Polyfjord](https://www.youtube.com/@Polyfjord)
+
 
 
 
