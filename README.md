@@ -2,9 +2,10 @@
 
 # Courses
 
-### Overvie
+### Overview
 
 - [Learning Blender in 2025](https://youtu.be/tK848ib0BBw?si=fYxn_fLd33LsvZ7g)
+- [Blender Marketplace](https://blendermarket.com/)
 
 ### Starter Level
 
