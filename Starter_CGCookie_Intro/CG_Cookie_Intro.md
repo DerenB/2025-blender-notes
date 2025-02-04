@@ -17,3 +17,17 @@
 - Side View: Numpad 3
 - Top View: Numpad 7
 - Toggle Orthographic: Numpad 5
+
+# Transforming Objects
+
+
+
+
+
+
+
+
+
+
+
+
