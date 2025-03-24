@@ -4,5 +4,49 @@
 
 - [Course Page](https://www.gamedev.tv/courses/blender-low-poly-landscapes/welcome-to-the-course/1692)
 
+# Random Notes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
