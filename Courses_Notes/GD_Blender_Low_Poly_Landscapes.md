@@ -30,6 +30,27 @@
   - `SHIFT + RMB`
 - Focus view port on selected object
   - `NUMPAD .`
+- Reset Object Rotation
+  - sets selected object to 0 degree rotation in all directions
+  - `ALT + R`
+- Loop Cut
+  - Only works on quad shapes (not triangle)
+  - `CTRL + R` in edit mode
+  - Click once to adjust where the cut is made
+  - Right click after to auto place at the middle
+- Add more Loops
+  - `Scroll Wheel` while in loop menu to add more loops
+- Select Loop Cut
+  - `ALT + LMB` click on edge
+- Delete Loop cut
+  - Select Loop
+  - `DEL` > Dissolve Edges
+  - Removes edges without deleting faces
+- Duplicate selected object
+  - `SHIFT + D`
+  - Duplicate object still part of original, not separate
+- Separate Object
+  - `P` > Selection
 
 
 
