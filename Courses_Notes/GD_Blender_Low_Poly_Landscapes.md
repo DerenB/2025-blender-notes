@@ -26,6 +26,10 @@
   - Hit direction twice
   - `S + Y + Y`
   - Line should change
+- Move 3D Cursor
+  - `SHIFT + RMB`
+- Focus view port on selected object
+  - `NUMPAD .`
 
 
 
