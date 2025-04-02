@@ -51,7 +51,46 @@
   - Duplicate object still part of original, not separate
 - Separate Object
   - `P` > Selection
+- Move Origin Point
+  - Go in Object Mode
+  - Top Right > "Options"
+  - Check "Origins" box
+  - Move with Grab `G` like normal
+- Local View
+  - Hides everything except for selected object
+  - `NUMPAD /`
+- Knife/Cut Tool
+  - `K`
+  - Hit `Enter` when done cutting
 
+
+
+
+
+
+# Python Answer
+
+```
+import folium
+import pandas as pd
+
+# Read the CSV file
+csv_file = 'coordinates.csv'  # Replace with your CSV file path
+data = pd.read_csv(csv_file)
+
+# Convert the DataFrame to a list of coordinate tuples
+coordinates = list(zip(data['latitude'], data['longitude']))
+
+# Create a Folium map object
+# You can set the initial location and zoom level as per your requirement
+m = folium.Map(location=[data['latitude'].mean(), data['longitude'].mean()], zoom_start=10)
+
+# Add a polygon to the map
+folium.Polygon(locations=coordinates, color='blue', fill=True, fill_color='blue', fill_opacity=0.2).add_to(m)
+
+# Save the map to an HTML file
+m.save('map.html')
+```
 
 
 
