@@ -62,6 +62,8 @@
 - Knife/Cut Tool
   - `K`
   - Hit `Enter` when done cutting
+- Apply Scale
+  - `CTRL + A` > Scale
 
 
 
