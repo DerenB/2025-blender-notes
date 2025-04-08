@@ -68,6 +68,10 @@
   - `H`
 - Show all hidden objects
   - `ALT + H`
+- Split Mirror Objects after Apply
+  - Objects that get created after applying Mirror modifier are attached to each other
+  - Switch to `Edit` mode
+  - `P` > Loose Parts
 
 
 
