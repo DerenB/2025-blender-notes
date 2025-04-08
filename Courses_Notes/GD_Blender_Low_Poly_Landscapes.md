@@ -64,6 +64,10 @@
   - Hit `Enter` when done cutting
 - Apply Scale
   - `CTRL + A` > Scale
+- Hide Object
+  - `H`
+- Show all hidden objects
+  - `ALT + H`
 
 
 
