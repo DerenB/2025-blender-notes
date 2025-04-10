@@ -72,6 +72,13 @@
   - Objects that get created after applying Mirror modifier are attached to each other
   - Switch to `Edit` mode
   - `P` > Loose Parts
+- Connect Vertex Points
+  - Select all vertices to be connected with `SHIFT`
+  - Click `J`
+- Subdivide Face/Edge
+  - Select Edge
+  - `RMB` somewhere on screen > subdivide
+- 
 
 
 
