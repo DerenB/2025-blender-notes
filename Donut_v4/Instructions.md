@@ -28,7 +28,13 @@
   - Subdivision Modifier
 - Enter "Edit" Mode
   - `TAB`
-- 
+- Proportionally Edit Donut
+  - Toggle on proportional editing at the top of the ViewPort
+  - Edit donut to make it lumpy
+- Add Center crease
+  - center of donut is inset a bit
+  - Select all with `ALT`
+  - Should turn off proportional editing
 
 
 
