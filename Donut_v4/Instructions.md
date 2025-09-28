@@ -76,6 +76,17 @@
 
 
 
+# Step 4: Sculpting
+
+- Fix any issues with the vertices and face layering
+- Add Modifier
+  - Deform > Shrinkwrap
+  - Set target to donut
+  - Put it first in modifier order
+  - Apply it
+
+
+
 
 
 
