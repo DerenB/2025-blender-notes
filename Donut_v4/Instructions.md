@@ -8,7 +8,7 @@
 
 
 
-# Video 2:
+# Video 2: Donut Creation
 
 - Add the mesh
   - `SHIFT + A`
@@ -36,6 +36,43 @@
   - Select all with `ALT`
   - Should turn off proportional editing
 
+
+
+# Video 3: Icing
+
+- Duplicate Donut
+  - Select Object
+  - `SHIFT + D`
+- Delete the bottom half of icing vertices
+- Thicken icing
+  - Properties Window
+  - Add Modifier
+  - Generate > Solidify
+  - Set Offset to 1
+  - Set thickness to 0.025m
+- Hide modifier in Edit mode
+  - click box on the modifier to hide in edit
+- Snap the vertices to the donut
+  - Click magnet icon at the top of the view port
+  - set to "face" snapping
+  - set to "face project"
+- Apply subdivision modifier (increase vertices)
+- Select inner vertices to hide them
+  - Select inner ring with `ALT`
+  - Auto select next tier `CTRL + +`
+  - Hide with `H`
+  - Unhide with `ALT + H`
+- Do all of the dragging for the wavy affects
+- Add Modifier to round edges
+  - Add subdivision modifier
+  - Rounds the edges so they aren't 90 degrees
+- Fix icing edge issue
+  - Icing is rounded and not pinned to donut
+  - Change Solidify modifier
+    - Set Edge Data > Crease Inner : 1
+- Extrude Icing Drips
+  - Select verticies
+  - Extrude with `E`
 
 
 
