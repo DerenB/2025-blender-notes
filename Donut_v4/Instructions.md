@@ -84,6 +84,42 @@
   - Set target to donut
   - Put it first in modifier order
   - Apply it
+- Apply Solidify modifier
+- Add bulge to bottom of drips
+  - Enter Sculpt mode
+  - Use "Inflate" Brush
+  - Change brush size: `F`
+  - Change brush strength: `SHIFT + F`
+- Apply subdivision modifier
+  - Level 2
+  - Render 6
+- Use "Grab" brush to modifier droplets 
+  - Can open with `G`
+- Use "Mask" brush
+  - Can open with `M`
+  - Brush areas
+- Show Brush Menu
+  - Click "View" beneath main task bar
+  - Check "Tool Settings" box
+- Edit only front
+  - Can accidently edit opposite side of object
+  - Enable Tool Settings > Brush > "Front Faces Only"
+- Erase marking errors
+  - `CTRL + LMB` 
+- Flip the shaded areas
+  - `CTRL + I`
+- Smooth Mask
+  - Sub Task Bar > Mask > "Smooth Mask"
+- Add thiccness
+  - Use "Mesh Filter"
+  - Set strength to 0.1
+  - Drag to Left to increase
+- Clear Mask
+  - Mask
+  - Clear Mask
+- Smooth edges
+  - Use smooth brush
+  - Clean up artifacting areas.
 
 
 
