@@ -123,6 +123,56 @@
 
 
 
+# Part 5: Shading
+
+- Add temporary shading to icing and donut
+  - Properties Window
+  - Materials 
+  - New
+  - Set color
+  - Set Roughness
+- Add Plane for Marble
+  - `SHIFT + A`
+- Set Donut parent
+  - Donut the parent of the icing
+  - Select icing
+  - Hold `SHIFT`
+  - Select Donut
+  - `CTRL + P`
+  - "Object Keep Transform"
+- Set Plane Texture
+  - Material 
+  - New
+  - Click the yellow dot by color
+  - Texture > Image Texture
+  - Add the image for the marble
+- Shading Tab
+  - Drag off from Principled BSDF > Roughness 
+  - Add "Image Texture Color"
+- Roughness Node
+  - Set "Color Space" to "Non-Color"
+- Principled BSDF node
+  - Drag off Normal
+  - Add "Image Texture Color
+  - Open Purple image with "normal"
+  - Set to Non Color
+- Normal Map
+  - `SHIFT + A`
+  - Add Vector > Normal Map
+  - Drop between Image Texture Color Normal and BSDF
+- Texture Paint
+  - Open Texture paint tab
+  - Go to Materials tab
+  - Yellow dot > Image Texture
+  - New Image
+  - Set donut color
+- Add donut color to left side at the top
+  - Paint onto donut the rim
+- Save the image
+  - Have to separately save the image
+
+
+
 
 
 
