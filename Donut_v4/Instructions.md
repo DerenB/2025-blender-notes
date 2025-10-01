@@ -175,6 +175,52 @@
 
 # Part 6: Geometry Nodes
 
+- Open "Geometry Nodes" menu at the top
+- Add points
+  - Adds points to the icing
+  - `SHIFT + A`
+  - Point > Distribute Points of Faces
+- Join the geometry
+  - Adding the points removes the icing
+  - `SHIFT + A`
+  - Join > Join Geometry
+- Circle shape on nodes can only accept one input
+- Oval/Pill shape can accept many inputs
+- Points won't render, need to indicate what to render as
+- Add a mesh to the scene 
+  - shift + a
+  - Add a sphere
+- Add mesh to geometry nodes
+  - Drag into geometry nodes from outline
+- Delete Geometry Node connection
+  - `CTRL + RMB`
+- Add Instance Points
+  - Instances > Instance on Points
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
