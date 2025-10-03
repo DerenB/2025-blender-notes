@@ -196,6 +196,16 @@
   - `CTRL + RMB`
 - Add Instance Points
   - Instances > Instance on Points
+- Points too close together
+  - Set the "Distribute Points on Faces" to "Poisson Disk"
+- Remove points from underside
+  - Add weight painting
+  - Go to Data Tab
+  - Rename vertex group from the painting
+- Add to Geometry Nodes
+  - Drag off from "Distribute points on faces" from Density Factor
+  - Add "Named Attribute"
+  - Set name to the name given to the vertex group
 
 
 
