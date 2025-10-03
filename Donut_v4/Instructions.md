@@ -206,6 +206,8 @@
   - Drag off from "Distribute points on faces" from Density Factor
   - Add "Named Attribute"
   - Set name to the name given to the vertex group
+- Fix brush to single face
+  - Tool toolbar > Brush > Front Faces Only
 
 
 
