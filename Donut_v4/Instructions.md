@@ -216,6 +216,15 @@
   - Select node (ex Group Input)
   - Click `N`, opens a side menu
   - Can double click node item to rename it
+- Scale donut/everything down to actual size, 0.1m
+- Can hold `CTRL` while scaling for incremental adjustments
+- Show side menu: `N`
+- Apply the scale
+  - Select all
+  - `CTRL + A`
+  - Apply Scale
+- Add Math to density
+  - Multiplication math node to simplify the quantity adjustment
 
 
 
