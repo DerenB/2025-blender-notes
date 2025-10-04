@@ -208,6 +208,14 @@
   - Set name to the name given to the vertex group
 - Fix brush to single face
   - Tool toolbar > Brush > Front Faces Only
+- "Expose" data point
+  - Drag "density factor into "Group Input"
+  - Then if the donut is duplicated, you can change the value per donut
+  - Value changed in the modifier 
+- Rename node item
+  - Select node (ex Group Input)
+  - Click `N`, opens a side menu
+  - Can double click node item to rename it
 
 
 
