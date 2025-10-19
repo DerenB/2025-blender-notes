@@ -228,6 +228,30 @@
 
 
 
+# Part 7: Sprinkles
+
+- Move 3D cursor
+  - `SHIFT + RMB`
+- Set clipping distance
+  - Side Menu
+  - View
+  - Set Clip Start
+- Add Sprinkle
+  - 12 sides
+  - 0.001 size
+- Round edges of sprinkle
+  - Select top and bottom face
+  - add bevel: `CTRL + B`
+  - Use mousewheel scroll to increase number of bevels
+- Add bend to the sprinkle
+  - Add modifier: SimpleDeform
+- Set origin point of objects to middle
+  - Select objects
+  - Right Click
+  - Set Origin > Origin to Geometry
+
+
+
 
 
 
