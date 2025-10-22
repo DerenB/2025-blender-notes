@@ -249,6 +249,19 @@
   - Select objects
   - Right Click
   - Set Origin > Origin to Geometry
+- Apply the bend modifier
+- Duplicate Donut with icing
+- Edit the Geometry Nodes for Long Sprinkles
+  - Remove the sphere collection
+  - Drag in the long sprinkles collection
+- Fix position
+  - Check "Separate Children"
+  - Check "Reset Children"
+  - Check "Pick Instance"
+  - Rotate sprinkles so they are parallel to plane
+- Add random rotation
+  - `SHIFT + A`
+  - Utilities > Rotation > Rotation Rotation
 
 
 
