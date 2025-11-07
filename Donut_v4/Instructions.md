@@ -265,6 +265,49 @@
 
 
 
+# Part 8: Sprinkle Colors
+
+- Apply same material to multiple objects
+  - Shift select all objects
+  - Make item with material last
+  - `CTRL + L` > Link Materials
+  - Material pane shows count of objects with the material
+- Add Node Frame
+  - Select Nodes
+  - Hit `F`
+  - Add Title
+- Edit Node Frame Title
+  - Select Frame
+  - Hit `F2`
+- Cut Node connection
+  - `CTRL + RMB`
+- Shading tab
+  - Add Input > Object Info
+  - Add Converter > Color Ramp
+
+
+
+# Part 8.5 Set up Camera & Render
+
+- `SHIFT + ~` to put camera in fly mode
+- `NUMPAD 0` to move to camera 
+- Pin Camera to View: View > Camera to View
+- Set up GPU render
+  - Turn on preference if greyed out
+  - Edit > Preferences > System > Cycles Render Devices
+    - CUDA: NVIDIA 1080 and older
+    - OptiX: Use for modern cards
+- Move object to 0,0,0 orign: `ALT + G`
+- Add sub surface scattering
+  - Select object with material
+  - Go to MATERIAL section in properties
+  - Subsurface > Set weight to 1 (always use 1 or 0)
+  - Fix the colors
+    - The default radius values are for human skin colors
+    - Set all 3 Radius values to 1
+    - Set scale (thickness of the object)
+
+
 
 
 
