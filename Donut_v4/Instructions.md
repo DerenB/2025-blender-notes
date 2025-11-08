@@ -358,6 +358,13 @@
 - Position donuts
 - Rotate around original axis
   - Rotate `R` and hit axis twice `Z + Z`
+- Set up scene
+  - Duplicate donuts
+  - stack donuts
+  - position camera
+  - position light
+- Duplicate floor pane, create background
+- Create random colors
 
 
 
