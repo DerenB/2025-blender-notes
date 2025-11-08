@@ -309,6 +309,59 @@
 
 
 
+# Part 9 Create the plate
+
+- Add a window
+  - move mouse to the edge of a view so drag icon shows
+  - `RMB`
+- Add a sphere
+  - Extrude upwards
+  - Scale outwards
+- Extrude outwards:
+  - `E` then `RMB` then `S` scale
+- Add a face
+  - go to wire frame mode
+  - Select vertices
+  - Hit `F`
+- Add bevel
+  - select edges
+  - `CTRL + B`
+- Add solidify modifier
+- Apply modifier
+- Add rounded bevel
+  - Select both edges and start bevel `CTRL + B`
+  - Click `C` while creating the bevel so that the edges meet
+- Merge vertices
+  - Vertices can be on top of each other
+  - Select all with `A`
+  - Open Merge window `M`
+  - Merge by distance
+  - Delect all with `ALT + A`
+
+
+
+# Part 9.1 Camera Settings
+
+- Adjust viewport size (the lines of the camera)
+  - Select camera
+  - Properties
+  - Camera
+  - Viewport Display
+  - Change size
+
+
+
+# Part 9.2 Duplicate donuts
+
+- Select all donuts
+  - Duplicate: `SHIFT + D`
+- Position donuts
+- Rotate around original axis
+  - Rotate `R` and hit axis twice `Z + Z`
+
+
+
+
 
 
 
