@@ -368,6 +368,59 @@
 
 
 
+# Part 10 Lighting
+
+- Add a sun lamp
+  - properties
+  - world
+  - yellow dot
+  - sky texture
+- adjust hotness
+  - render
+  - color management
+  - set exposure (-2)
+- adjust sun size, elevation, rotation
+- Add cube
+  - pin to bottom corner
+  - switch to wire frame
+  - grab cube `G`
+  - hit `B` to open pin function
+  - pin to planes
+- remove back and bottom sides of cube
+  - `x`
+  - faces
+- cut opening
+  - select face
+  - inset `I`
+  - delete new face
+- Black fill cube
+  - have basic white as default
+  - create second material with + icon
+  - set to Diffuse BSDF
+  - Go to edit mode
+  - select face
+  - assign button on material
+- take sun intensity down to 0.5
+
+
+
+# Part 10.1 Import Model
+
+- Web link for model: https://www.poliigon.com/model/wooden-utensils-jar-model/3441
+- download, unzip
+- File > Append > `.blend` file > collection > click
+
+
+
+# Part 10.2 Install Addon
+
+- Polygon addon download: https://www.poliigon.com/blender
+- Don't unzip the file, blender installs from zip
+- Edit > Preferences > Add-ons > drop down > Install from disk
+- Click checkbox on addon to enable
+
+
+
 
 
 
