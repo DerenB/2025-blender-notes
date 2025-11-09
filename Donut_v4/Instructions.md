@@ -441,6 +441,39 @@
 
 
 
+# Part 12 Animation
+
+- Select object that will get keyframe
+  - `K`
+- Insert empty object at center of plate
+  - `SHIFT + RMB` to move cursor
+  - `SHIFT + A` > Empty > Plain Axes
+- Set up empty object
+  - properties > Data
+- Attach camera to empty object
+  - Select camera
+  - `CTRL` select the empty object
+  - `CTRL + P` > Object keep transform
+- Roate camera by rotating the empty object
+- Set timestamp at bottom
+- Insert keyframe `k` and use "rotation"
+- Open Animation tab
+  - Make sure empty object is selected
+  - delete y and z rotation
+- Change animation tab window to "Graph editor"
+- Use `HOME` to adjust view so whole graph is visible
+  - `Middle Mouse` is pan
+  - `CTRL + Middle Mouse` to manually adjust size
+- Adjust transition
+  - select keyframe
+  - rotate with `r`
+  - scale out with `s`
+- Can move camera and insert a scale keyframe
+- Change FPS
+  - Properties > Output > Frame Rate
+
+
+
 
 
 
