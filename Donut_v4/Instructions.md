@@ -474,6 +474,49 @@
 
 
 
+# Part 13 Rendering
+
+- Use "Denoise"
+- Uncheck "Noise Threshold"
+- Sample count
+  - 300 a good minimum
+  - 500 is a good value
+  - 1,000 is great with no time constraint
+- Set up output settings
+  - Properties > Output
+  - NEVER output to a video format
+    - If something goes wrong during render, whole thing is lost
+  - Render to images, then combined into a video
+  - PNG good option
+  - TIFF slightly better
+  - OpenEXR best but difficult if don't know what doing
+  - NEVER jpeg
+  - Color Depth
+    - 8 is fine
+    - 16 is for color grading or after affects
+
+
+
+# Part 13.1 Pre-Render Error Checklist
+
+- Check Face Direction
+  - Solid viewport
+  - Show Overlays > Face orientation
+  - Blue is correct, red is incorrect
+  - Turn on Blue:
+    - Edit > Preferences > Themes > 3D Viewport > Face Orientation Front
+    - Set the alpha to something higher than 0
+  - Fix Red Items
+    - Select red object
+    - Go to Edit mode
+    - Select all `A`
+    - Hit `SHIFT + N`
+    - For sprinkles, select the original sprinkle not the geometry nodes ones
+- Hide objects in render
+  - Click camera icon to make invisible in render but viewable in viewport
+
+
+
 
 
 
