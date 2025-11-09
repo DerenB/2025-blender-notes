@@ -421,6 +421,26 @@
 
 
 
+# Part 11 Compositing
+
+- Compositing tab at top
+- Check "Use Nodes" box
+- Set rendering max samples to low, 100
+- Render an image
+- Add image view in compositing
+  - `CTRL + SHIFT + LMB`
+- Close/open image on render layer node if can't see
+- Move background image: `ALT + Middle Mouse Button`
+- Zoom Image in/out
+  - Zoom Out: `v`
+  - Zoom in: `ALT + V`
+- Can set color management in render menu
+  - Properties > Render > Color Management
+  - Set "Look"
+  - Tutorial used Medium High Contrast
+
+
+
 
 
 
