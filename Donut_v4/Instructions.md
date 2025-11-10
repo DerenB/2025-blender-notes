@@ -140,12 +140,17 @@
   - Select Donut
   - `CTRL + P`
   - "Object Keep Transform"
-- Set Plane Texture
+
+
+
+# Part 5.1 Import custom texture ***
+
+- Set Texture
   - Material 
   - New
   - Click the yellow dot by color
   - Texture > Image Texture
-  - Add the image for the marble
+  - Add the image for the marble (the base color jpg)
 - Shading Tab
   - Drag off from Principled BSDF > Roughness 
   - Add "Image Texture Color"
