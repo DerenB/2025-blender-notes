@@ -519,6 +519,23 @@
     - For sprinkles, select the original sprinkle not the geometry nodes ones
 - Hide objects in render
   - Click camera icon to make invisible in render but viewable in viewport
+- Color Management
+  - Properties > Render > Color Management
+  - Set to "False Color" to see the light/shadow balance
+  - Should eliminate "white" spots
+  - Minimize "red" areas
+  - Set it back to "AgX" when done
+- Adjust world air/dust
+  - properties > world > surface
+- Depth of Field
+  - Select camera object
+  - Properties > Data
+  - Click eye dropper
+  - Click where you want the focus
+  - The lower the f-stop, the more upclose is the focus
+- Motion blur
+  - Enable in render settings
+  - default setting is pretty good
 
 
 
