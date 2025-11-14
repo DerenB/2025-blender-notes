@@ -10,13 +10,14 @@
 
 # Video 2: Donut Creation
 
-- Add the mesh
+- Add the torus mesh
   - `SHIFT + A`
 - Set the settings before clicking off
   - Major 32
   - Minor 12
   - Radius 0.39m
   - Radius 0.25m
+- Scale down to ~0.125m
 - View the texture as smooth
   - `RMB`
   - "Shade Smooth"
@@ -52,12 +53,14 @@
   - Set thickness to 0.025m
 - Hide modifier in Edit mode
   - click box on the modifier to hide in edit
-- Snap the vertices to the donut
+  - So that you can see the vertices in edit mode
+- Snap the vertices to the donut (for dragging down the icing)
   - Click magnet icon at the top of the view port
-  - set to "face" snapping
   - set to "face project"
-- Apply subdivision modifier (increase vertices)
+  - Snaps the vertices to the face
+- Apply subdivision modifier (increase vertices) on the icing
 - Select inner vertices to hide them
+  - Allows you to drag without affecting the interior vertices
   - Select inner ring with `ALT`
   - Auto select next tier `CTRL + +`
   - Hide with `H`
