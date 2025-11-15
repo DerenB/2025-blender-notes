@@ -67,12 +67,14 @@
   - Unhide with `ALT + H`
 - Do all of the dragging for the wavy affects
 - Add Modifier to round edges
+  - Icing edge too sharp, need to round the corners
   - Add subdivision modifier
   - Rounds the edges so they aren't 90 degrees
 - Fix icing edge issue
   - Icing is rounded and not pinned to donut
   - Change Solidify modifier
-    - Set Edge Data > Crease Inner : 1
+    - Set Edge Data > Crease Inner
+    - Set to 1
 - Extrude Icing Drips
   - Select verticies
   - Extrude with `E`
@@ -101,7 +103,7 @@
 - Use "Mask" brush
   - Can open with `M`
   - Brush areas
-- Show Brush Menu
+- Show Brush Menu if it is not showing
   - Click "View" beneath main task bar
   - Check "Tool Settings" box
 - Edit only front
