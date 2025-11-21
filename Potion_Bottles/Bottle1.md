@@ -49,7 +49,7 @@
   - Duplicate circles so that there are 3
   - Arrange them into a triangle shape
   - Select all circles 
-  - Join together: `SHIFT + J`
+  - Join together: `CTRL   + J`
 - Go into edit mode on the circle
   - delete the inner vertices
   - Join the vertices at the corner intersections: `M` > Join at Center
