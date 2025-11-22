@@ -66,6 +66,24 @@
 
 
 
+# Create Rope
+
+- Add Mesh > Curve > Circle
+- Move up to the neck
+- Scale down close to size of neck
+- Set thickness
+  - Properties > Data > Geometry > Bevel
+  - Set "Depth" to 0.1m
+- Rotate rope so it looks like the picture
+- Repeat for as many ropes as needed
+- Add 2 loops for the knot
+- Add the large loop for the tag
+- Add Long ropes
+  - Mesh > Curve > Bezier
+  - Can Extrude for more vertices
+  - Can fill the ends with "Fill caps" next to the thickness bevel
+
+
 
 
 
