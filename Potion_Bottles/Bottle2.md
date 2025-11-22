@@ -62,6 +62,7 @@
 - Select top rim > `F` to add a top face
 - Repeat on bottom
 - Add 2 insets to the top and the bottom faces
+- Bevel top and bottom edges
 
 
 
