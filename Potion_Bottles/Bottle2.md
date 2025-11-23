@@ -130,6 +130,58 @@
 
 
 
+# Make the Liquid
+
+- Isolate object
+  - Select an object
+  - Hit `/`
+  - Hides everything except selected object
+  - Repeat to show everything again
+- Select inside bottom faces of bottle
+- Increase amount selected `CTRL + +` until needed height
+- Duplicate > Separate `P`
+- Edit mode fluid
+  - Select upper edge of fluid
+  - `CTRL + F` > Grid Fill
+- Duplicate potion as a backup
+- Add Latice
+  - `SHIFT + A` > Lattice > Lattice
+  - Properties > Data > Set Resolution U,V,W to 7 each
+- Select Fluid
+  - Modifiers > add Lattice modifier
+  - Dropper select the added lattice
+- Go To Lattice in Edit mode
+  - move the vertices up and down until you get a curve
+- Turn on backup to compare to original size
+  - Can add materials to the fluid to see clipping easier
+- Check normals
+  - Unhide everything with `/`
+  - Top > Overlays > Face Orientation
+  - Turn on Blue:
+    - Edit > Preferences > Themes > 3D Viewport > Face Orientation Front
+    - Set the alpha to something higher than 0
+  - Fix red
+    - Select red object
+    - go to edit mode
+    - Select all with `A`
+    - `ALT + N` > Flip
+
+
+
+# Rotate the bottle
+
+- Select everything except the fluid
+  - If child/parent issue > `ALT + P` > Clear Parent
+- `CTRL + P` > Object (Keep Transform)
+- Apply Fluid
+  - Select fluid
+  - Apply Lattice modifier
+  - Add Bevel modifier
+    - Place first, above subsurface
+    - Set Amount to 0.014m
+    - Set segments to 2
+
+
 
 
 
