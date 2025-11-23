@@ -85,6 +85,51 @@
 
 
 
+# Create Label
+
+- Add a Plane mesh
+- Rotate 90 degrees so you can see
+- Resize to a rectangle
+- Go to Edit Mode
+- Add 2 circle cuts `CTRL + R` (divide into thirds)
+- `S` in X-axis so the middle section is the size of the tag
+- Circle cut down the middle
+- Circle cut the tag
+- Should be 4 columns on the main tag and a 2x2 grid on the tag
+- Got back to object mode
+  - `CTRL + A` > Apply scale
+- Back to Edit Mode
+- Tag Hole
+  - Select vertex in center of 2x2 grid
+  - `CTRL + SHIFT + B` to add a bevel, scroll to level 2 so there are 4 sections
+  - In the bevel window, set "Profile Shape" to 0.104 (make circular)
+- Round corners
+  - select top 2 vertives of the tab
+  - `CTRL + SHIFT + B` to bevel them
+  - Reset "Profile Shape" to 0.500 so that they are round
+- Add 6 loop cuts so that the edges of the label are protected
+- Add 3 additional vertical loop cuts (so the paper can be curved)
+- Add modifiers
+  - Solidify
+  - Subdivision surface
+- Delete 4 faces inside tag (to create hole in tag)
+- Use vertices to bend the tag around
+- Move tag into position on the rope loop
+
+
+
+# Rotate the Ropes
+
+- Move cursor to World Origin
+  - `SHIFT + S` > Cursor to World Origin
+- Select all of the ropes/tags
+- Set pivot point
+  - Click "Transform Pivot Point" at the top
+  - Set to "3D Cursor" (defaults to median point)
+- Can now rotate about the axis
+
+
+
 
 
 
