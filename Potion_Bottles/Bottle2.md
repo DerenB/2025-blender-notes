@@ -221,6 +221,30 @@
   - Set to white #ffffff
   - Transmission to 1
   - Roughness to 0.01
+  - Add "volume absorption" node
+    - Connect to "Material Output" volume pointer
+    - Set color to whatever
+    - Set density to 2
+- Rope
+  - Set to brown
+  - Set roughness to 0.6
+- Cork
+  - Add node "Voronoi Texture"
+    - Connects color to color ramp factor
+  - Add node "Color Ramp"
+    - Connects color to principled base color
+  - Set colors on ramp
+    - Set points to 0.35 and 0.555
+
+
+
+# Apply Modifiers
+
+- Apply the modifiers
+  - On Bottle
+  - On Potion Fluid
+  - On Cork
+  - On Tag
 
 
 
