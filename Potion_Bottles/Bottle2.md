@@ -183,6 +183,46 @@
 
 
 
+# Set up camera
+
+- Focal Length 100mm
+- Set render to Cycles, GPU compute
+- Enable viewport Denoise, set to 50
+- Disable render denoise
+- Film > Transparent > Transparent Glass
+- View Layer > Passes > Data > Denoising Data
+- Add background Plane
+
+
+
+# Shading Tab
+
+- Reset Pivot Point
+  - Top > Pivot Point > Individual Origins
+- Go to shading tab at top
+- Set Material to "World"
+- Add an HDRI image with "Image Texture
+  - Drag the color into the background color
+- Set plane color
+  - Add new material
+  - set to Black #000000
+  - Set roughness to 0.4
+  - Hide in camera view
+    - Properties > Object Properties > Visability > uncheck Camera
+- Bottle
+  - Set Transmission to 1
+  - Set color to white #ffffff
+  - Set roughness to 0
+  - Add "volume absorption" node
+    - Connect to "Material Output" volume pointer
+    - Set color to whatever
+    - Set density to 2
+- Potion
+  - Set to white #ffffff
+  - Transmission to 1
+  - Roughness to 0.01
+
+
 
 
 
