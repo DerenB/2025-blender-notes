@@ -248,6 +248,14 @@
 
 
 
+# Add Label Image
+
+- Go to UV Editing
+- Select all polygons of the Tag
+- Open the image (open icon at the top)
+
+
+
 
 
 
