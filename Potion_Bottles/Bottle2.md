@@ -8,7 +8,7 @@
 
 - Add UV Sphere `SHIFT + A`
 - From top, delete the first 3 "row" circles
-  - Sphere has an open top now
+  - Sphere has an open top now.
 - Shape Neck
   - Extrude `E` and Scale `S` the top sections to create neck
   - Create tear drop shape
