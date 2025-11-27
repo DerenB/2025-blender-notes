@@ -256,6 +256,36 @@
 
 
 
+# Add the Bubbles
+
+- Uses particle system
+- Select fluid
+- Properties > Particle
+- Add a new one
+- Hide the bottle
+- Add UV Sphere
+  - Used for the bubble
+  - Create Material for sphere
+    - Set to white
+    - Roughness: 123
+    - IQR: 1.3
+    - Transmission: 1
+    - Emission: 0.01
+- Settings
+  - Emission
+    - Number: 100 (adjust for quantity)
+    - Frame Start: 1
+    - Frame End: 1
+    - Lifetime: 250
+  - Source
+    - Emit From: Volume
+    - Use Modifier Stack
+  - Render
+    - Render As: Object
+    - Eyedropper select bubble sphere
+
+
+
 
 
 
