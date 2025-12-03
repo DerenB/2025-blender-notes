@@ -3,7 +3,7 @@
 # Courses Completed
 
 - YouTube
-  - [BlenderGuru 4.0 Donut](https://youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z&si=mXiuobUnYisXxzhv)
+  - [BlenderGuru   - 4.0 Donut](https://youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z&si=mXiuobUnYisXxzhv)
   - [Potion Bottle - Cas Raven 3D](https://youtu.be/-LDptWxkG8Q?si=RPFCF1bmorXc1JCD)
   - [Potion Bottle - Pixlways](https://youtu.be/e4CW6MInaas?si=ErdrPuEZpPkcc8-i)
 - 
