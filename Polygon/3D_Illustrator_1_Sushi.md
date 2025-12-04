@@ -20,6 +20,33 @@
 
 
 
+# Add Material
+
+- Remove default material
+- Set multiple colors in edit mode
+  - select faces > assign
+
+
+
+# Duplicate the Sushi
+
+- Add modifier
+  - Generate > Array
+  - Set Count to 3
+  - Set relative offset x to 1.2
+- Add 2nd Array modifier to created 2nd row
+  - Set count to 2
+  - Set relative offset y to 1.2
+
+
+
+# Add Plate
+
+- Add plane
+- Change scale in edit mode
+- extrude upwards
+- Inset the plate `I`
+
 
 
 
