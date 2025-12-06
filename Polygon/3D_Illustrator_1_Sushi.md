@@ -83,6 +83,18 @@
 
 
 
+# Lighting
+
+- Set up render settings
+  - cycles
+  - gpu compute
+  - set samples
+  - 
+- Set up World Light Settings
+  - 
+
+
+
 
 
 
