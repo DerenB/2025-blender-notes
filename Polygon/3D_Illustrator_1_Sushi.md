@@ -91,7 +91,14 @@
   - set samples
   - 
 - Set up World Light Settings
-  - 
+
+
+
+# Group Items
+
+- Select all items
+- Select main parent item last
+- Group them: `CTRL + P`
 
 
 
