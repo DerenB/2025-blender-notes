@@ -54,6 +54,19 @@
 
 
 
+# Head Dots
+
+- Add a cylinder
+- Set vertices to 8
+- Add a subsurface modifier
+- Scale down
+- Inset top and bottom faces (to make into hockey puck shape)
+- Shade smooth
+- Turn on "Snap" at top
+- Turn on "Face" Snap Target
+- Use `ALT + D` to duplicate so they are linked
+- Freely rotate them with `R + R`
+
 
 
 
