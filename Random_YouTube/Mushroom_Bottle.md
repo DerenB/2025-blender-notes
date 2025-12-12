@@ -69,6 +69,44 @@
 
 
 
+# Base
+
+- add a cube
+- add a subsurface modifier
+- Scale up
+- position under mushrooms
+- Add an inset to top face
+- Shape it into a bowl shape
+- Shade smooth
+
+
+
+# Add Large Grass
+
+- add a "curve path"
+- Rotate 90 degreess so it points up
+- Properties > Data
+  - Set depth to 0.102
+  - Set resolution to 1
+- Set size in edit mode
+- drag points to make into curve shape
+- Make top point
+  - select top vertex
+  - `ALT + S` to scale down
+- Duplicate as much as you want `ALT + D`
+
+
+
+# Add Small Grass
+
+
+- Duplicate large grass with `SHIFT + D`
+- Set to size
+- Duplicate 4-6 times
+- Join with `CTRL + J`
+- `ALT + D` duplicate them
+
+
 
 
 
