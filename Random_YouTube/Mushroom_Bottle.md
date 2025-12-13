@@ -99,13 +99,58 @@
 
 # Add Small Grass
 
-
 - Duplicate large grass with `SHIFT + D`
 - Set to size
 - Duplicate 4-6 times
 - Join with `CTRL + J`
 - `ALT + D` duplicate them
 
+
+
+# Add Small Rocks
+
+- Add a cube
+- add a subsurf modifier
+- Apply the modifier
+- Move vertices around in edit mode with proportional editing `o`
+
+
+
+# Add Bottle
+
+- Add a cylinder
+  - Set vertices to 8
+- Add subsurf modifier
+- Shape the cylinder into a bottle shape around the model
+- Delete the top face of the bottle
+- Add a solidify modifier
+  - Make solidify first in hierarchy
+  - Set the thiccness
+  - Apply the solidify modifier
+- Add the rim
+  - Select the faces around the top
+  - Extrude along the normals
+  - Do a second loop in the middle
+  - Add support Loop cuts `CTRL + R` to emphasis the edge
+- Shade Smooth
+
+
+
+# Create the Cork
+
+- Select the inner loop 
+- Duplicate `SHIFT + D` > RMB to keep it there
+- Split from the bottle with `P`
+- Add a face with `F`
+- Use Extrude `E` and loop cuts `CTRL + R` to create the cork shape
+- Inset `I` the top face
+- Parent the cork to the bottle
+
+
+
+# Add the Back Drop
+
+- 
 
 
 
