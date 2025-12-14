@@ -148,9 +148,56 @@
 
 
 
-# Add the Back Drop
+# Add the Back Drop & Camera
 
-- 
+- Add a plane
+- Add a vertical section
+- Bevel the border
+- Camera
+  - Set the resolution
+  - Position the camera
+  - Set world light to 0
+- Split View 
+  - In the render view, use `CTRL + B`
+  - Drag select the camera view
+  - This will only render what is in view
+
+
+
+# Lighting
+
+- Add an area light
+- Add an area left and right light
+- Turn off reflection on bottle
+  - Select Light > Properties > Object > Ray Visibility
+  - Turn off Glossy & Transmission
+
+
+
+# Materials
+
+- Bottle Material
+  - Set to Glass BSDF
+  - Set Roughness to 0
+  - Set IQR to 1.5
+- Ground Color (shading tab)
+  - Geometry Nodes:
+  - Texture Coordinate 
+    - Generated > Mapping (Vector)
+  - Mapping
+    - Set Y-Rotation to 90
+    - Vector > Gradient Texture (Vector)
+  - Gradient Texture
+    - Color > Color Ramp (Factor)
+  - Color Ramp
+    - Set the Colors
+    - Color > Principled BSDF (Base Color)
+  - Principled BSDF
+    - BSDF > Material Output (Surface)
+- Max Colors Pop more
+  - Properties > Render > Color Management
+  - Set View: Standard
+  - Set Look: Very High Contrast
 
 
 
