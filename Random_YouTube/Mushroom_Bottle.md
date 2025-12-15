@@ -177,6 +177,7 @@
 # Materials
 
 - Bottle Material
+  - Make sure render engine is set to cylces, will be black if eevee
   - Set to Glass BSDF
   - Set Roughness to 0
   - Set IQR to 1.5
